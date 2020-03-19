@@ -1,4 +1,4 @@
-module github.com/johnae/nixdrone
+module github.com/johnae/nixdrone-converter
 
 go 1.12
 

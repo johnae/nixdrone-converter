@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/drone/drone-go/plugin/converter"
-	"github.com/johnae/nixdrone/plugin"
+	"github.com/johnae/nixdrone-converter/plugin"
 
 	_ "github.com/joho/godotenv/autoload"
 	"github.com/kelseyhightower/envconfig"
